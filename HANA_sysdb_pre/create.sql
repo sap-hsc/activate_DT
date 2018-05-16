@@ -1,0 +1,1 @@
+ALTER DATABASE HDB ADD 'esserver' ;
